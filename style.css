@@ -27,6 +27,9 @@
   width: 500px;
   margin: 0 auto 0;
 }
+.main-heading {
+  display: none;
+}
 .task,
 .input-task {
   width: 56%;
